@@ -1,0 +1,14 @@
+= Timeline.js v 0.1a
+
+Timeline.js (jquery.timeline.js) is a simple jQuery plugin for creating graphs where the x-axis is time.
+
+= Requirements
+  jQuery >= 1.6
+
+= Usage
+
+COMING SOON
+
+== License
+
+Timeline.js is released under the MIT License. See LICENSE for more information.
